@@ -8,4 +8,4 @@ From the terminal all the dependencies will be solve by just running.
 sbt run
 ```
 
-The template is just to resolve the dependencies issues. If the cancidate feels happy he can use the current template or change to another one that he feel is more convinient. 
+The template is just to resolve the dependencies issues. If the cancidate feels happy he can use the current template or change to another one that he feel is more convinient. Furthermore, if the candidate feels that other libraries are useful in the build.sbt file, just feel free to add them.
